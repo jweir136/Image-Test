@@ -1,5 +1,5 @@
 import flask
-import datetime
+from datetime import datetime
 
 IMG_URL = "image.png"
 app = flask.Flask(__name__)
